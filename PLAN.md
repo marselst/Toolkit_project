@@ -5,8 +5,8 @@
 ### 1.1 Document Management
 - Create an application where users can add documents with different types of extensions:
   - `.txt`
-  - `.docx`
-  - `.pdf`
+  - `.json`
+  - `.md`
   - and others
 
 ### 1.2 Search Availability Marking
